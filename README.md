@@ -50,16 +50,3 @@ MySQL Database Service is a fully managed database service to deploy cloud-nativ
 MongoDB is a general purpose, document-based, distributed database built for modern application developers. We will use it via de official [MongoDB Docker Image](https://hub.docker.com/_/mongo). <br>
 
 
-## Usage :dizzy:
-All projects are really well commented and most of them have specifications and remarks for their purpose and I/O. <br>
-I will be uploading most of the files, and try to keep it as clean as possible. <br>
-
-
-## Special thanks :gift:
-* Thanks to my friend Juan Felipe Becerra Ospina for introducing me to DevOps practices. <br>
-* Thanks to all contributors of the great OpenSource projects that I am using. <br>
-
-
-## Author :musical_keyboard:
-### Santiago Garcia Arango.
-<img src="assets/img/SantiagoImage.jpg" width=30%> <br>
